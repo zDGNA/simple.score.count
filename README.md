@@ -1,2 +1,2 @@
 # simple.score.count
-Alat penghitung score 1 v 1
+Alat simple penghitung score 1 v 1
